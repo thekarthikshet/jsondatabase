@@ -1,0 +1,1 @@
+{"sales_id":4,"product_name":"samsung ","price":6.0,"quantity":56,"total_sales":336.0},{"sales_id":5,"product_name":"samsung ","price":6.0,"quantity":56,"total_sales":336.0},{"sales_id":6,"product_name":"samsung ","price":6.0,"quantity":56,"total_sales":336.0},{"sales_id":7,"product_name":"samsung ","price":6.0,"quantity":56,"total_sales":336.0}

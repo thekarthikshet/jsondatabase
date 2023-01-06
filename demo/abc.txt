@@ -1,0 +1,1 @@
+{"Total_Sales":50,"Price":25,"qty":2,"sales_id":"111","product_name":"mobilephone"}
