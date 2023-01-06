@@ -1,0 +1,1 @@
+{"sales_id":1,"product_name":"samsung ","price":5.0,"quantity":56,"total_sales":280.0}
